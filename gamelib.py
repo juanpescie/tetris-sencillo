@@ -1,7 +1,7 @@
 """
 Gamelib is a pure-Python single-file library/framework for writing simple games. It is
 intended for educational purposes (e.g. to be used in basic programming courses).
-
+EL ARCHIVO Y LA LIBRERIA GAMELIB ES PORPIEDAD DE DEIGO ESSAYA
 https://github.com/dessaya/python-gamelib
 """
 
