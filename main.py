@@ -134,7 +134,7 @@ def main():
 
             if len(lista) > 10:
                 lista = lista[:10]
-                print(lista)
+             
             subirpuntuaciones("puntuaciones.txt", lista)
 
             break
